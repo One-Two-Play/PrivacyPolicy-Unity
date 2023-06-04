@@ -7,7 +7,7 @@ This asset is designed to be multi-lingual and show PrivacyPolicy automatically 
 
     [![GitHub releases](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub%20Releases&labelColor=181717&message=Downloads&color=green&logo=GitHub&logoColor=white)](https://github.com/One-Two-Play/PrivacyPolicy-Unity/releases)
 
-2. Drag the prefab `PPPopup` into your scene. Prefab located in **`Assets/Plugins/PrivacyPolicy/Example/CheckOrientation/CheckOrientaion.prefab`**.
+2. Drag the prefab `PPPopup` into your scene. Prefab located in **`Assets/Plugins/PrivacyPolicy/Example/PPPopup.prefab`**.
 
     ![](Screenshots/1.png)
 
