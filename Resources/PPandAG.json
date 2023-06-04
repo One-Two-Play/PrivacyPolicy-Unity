@@ -1,0 +1,2031 @@
+{
+  "privacyPolicies": [
+    {
+      "locale": "en",
+      "main": {
+        "description": "Azerion values safe and transparent data usage. The data you share with us serves to offer you the best gaming experience possible.\n\nWe use the data we collect from you to personalize content, offers, advertisements, and social media features to suit your interests. It also helps us understand how you play our games. To be able to accomplish this, we may share your data with our social media, advertising, and analytics partners who may combine it with other data you’ve given them.\n\nBy clicking accept, you agree to such data usage and confirm that you are at least sixteen years old.",
+        "acceptAll": "ACCEPT ALL",
+        "accept": "ACCEPT",
+        "settings": "SETTINGS"
+      },
+      "settings": {
+        "title": "Your data may be used for the following purposes:",
+        "personalisedContent": "To show you personalized content, offers, and recommendations",
+        "personalisedAds": "To show you interest based ads ",
+        "rememberSettings": "To remember your settings and other choices within the game",
+        "understandHow": "To better understand how you use our games",
+        "socialMedia": "To offer you social media features",
+        "description": "The data used for the purposes above are personal identifiers such as device ID’s, advertising identifiers, IP-addresses, gameplay behavior, and other information you choose to share with us. The data will be deleted when it is no longer necessary for the service or when you change your data settings.\n\nYou’re free to change the settings related to the use of your data anytime.\n\nDue to the set-up of Unity, one of our business partners, we are not able to prevent your data from being shared before you start the game. If you want to stop such sharing for advertising purposes or delete the shared data, please go to the settings menu in the game and opt-out directly with Unity via the link provided there.\n\nYou also have the right to lodge a complaint with the supervisory authority.\n\nTo find out more about how we and our partners use data click on \"learn more\" or the following partner links:",
+        "learnMore": "LEARN MORE",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "PRIVACY POLICY",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "SAVE",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Partners",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "nl",
+      "main": {
+        "description": "Azerion waardeert veilig en transparant gegevensgebruik. Dankzij de gegevens die je met ons deelt, kunnen wij je de best mogelijke spelervaring bieden.\n\nWe gebruiken de gegevens die we van jou verzamelen om inhoud, aanbiedingen, advertenties en social-mediafuncties op jouw interesses af te stemmen. Bovendien bieden ze ons inzicht in hoe je onze spellen speelt. Om dit te kunnen verwezenlijken, kunnen we jouw gegevens eventueel met onze social-media-, advertentie- en analysepartners delen, die deze gegevens eventueel kunnen combineren met andere gegevens die je aan hen hebt verstrekt.\n\nDoor op 'accepteren' te klikken, ga je akkoord met dit gebruik van je gegevens en bevestig je dat je minstens zestien jaar oud bent.",
+        "acceptAll": "ACCEPTEER ALLES",
+        "accept": "ACCEPTEREN",
+        "settings": "INSTELLINGEN"
+      },
+      "settings": {
+        "title": "Je gegevens kunnen voor de volgende doeleinden worden gebruikt:",
+        "personalisedContent": "Om je persoonlijke inhoud, aanbiedingen en aanbevelingen te tonen",
+        "personalisedAds": "Om je advertenties die op jouw interesses zijn gebaseerd te tonen ",
+        "rememberSettings": "Om je instellingen en andere keuzes in het spel te onthouden",
+        "understandHow": "Om meer inzicht te krijgen in hoe je onze spellen gebruikt",
+        "socialMedia": "Om je social-mediafuncties aan te bieden",
+        "description": "De gegevens die voor bovenstaande doeleinden worden gebruikt, zijn persoonlijke identificatiemiddelen zoals toestelherkenners, advertentieherkenners, IP-adressen, gameplaygedrag en andere informatie die je vrijwillig met ons deelt. De gegevens worden verwijderd als ze niet langer nodig zijn voor de dienst of als je je gegevensinstellingen wijzigt.\n\nJe kunt de instellingen met betrekking tot het gebruik van je gegevens op elk moment wijzigen.\n\nWegens de instellingen van Unity, een van onze zakenpartners, kunnen we niet vermijden dat je gegevens worden gedeeld voordat je de game opstart. Als je dit soort deling voor advertentiedoeleinden wilt stoppen of de gedeelde gegevens wilt wissen, ga dan naar het instellingenmenu in de game en meld je direct van Unity af via de link die je daar kunt vinden.\n\nJe hebt ook het recht om een klacht in te dienen bij de toezichthoudende autoriteit.\n\nKlik op 'meer informatie' of de onderstaande partnerlinks om meer te weten te komen over hoe wij en onze partners gegevens gebruiken:",
+        "learnMore": "MEER INFORMATIE",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "PRIVACYBELEID",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "OPSLAAN",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Partners",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "fr",
+      "main": {
+        "description": "Azerion privilégie une utilisation sûre et transparente des données. Les données que vous nous communiquez nous permettent de vous offrir la meilleure expérience de jeu possible. \n\nNous utilisons les données que nous recueillons auprès de vous pour personnaliser le contenu, les offres, les publicités et les contenus sur les réseaux sociaux en fonction de vos intérêts. Elles nous permettent également de comprendre comment vous jouez à nos jeux. Pour cela, nous pouvons être amenés à partager vos données avec nos partenaires en matière de réseaux sociaux, de publicité et d'analyse, qui peuvent les combiner avec d'autres données que vous leur avez fournies.\n\nEn cliquant sur Accepter, vous consentez à cette utilisation des données et confirmez que vous avez au moins seize ans.",
+        "acceptAll": "TOUT ACCEPTER",
+        "accept": "ACCEPTER",
+        "settings": "PARAMÈTRES"
+      },
+      "settings": {
+        "title": "Vos données peuvent être utilisées aux fins suivantes:",
+        "personalisedContent": "Pour vous montrer du contenu personnalisé, des offres et des recommandations",
+        "personalisedAds": "Pour vous montrer des publicités ciblées ",
+        "rememberSettings": "Pour mémoriser vos réglages et autres choix dans les jeux",
+        "understandHow": "Pour mieux comprendre comment vous utilisez nos jeux",
+        "socialMedia": "Pour vous offrir des fonctionnalités relatives aux réseaux sociaux",
+        "description": "Les données utilisées aux fins susmentionnées sont des renseignements personnels, tels que des identificateurs d'appareil, les identificateurs publicitaires, les adresses IP, les données de comportement en jeu et d'autres renseignements que vous choisissez de nous communiquer. Les données sont effacées lorsqu'elles ne sont plus nécessaires pour le service ou lorsque vous modifiez vos paramètres d'utilisation des données.\n\nVous êtes libre de modifier à tout moment les paramètres relatifs à l'utilisation de vos données.\n\nDe par l'organisation d'Unity, l'un de nos partenaires commerciaux, nous ne sommes pas en mesure d'empêcher le partage de vos données avant le lancement du jeu. Si vous souhaitez mettre un terme à ce partage à des fins publicitaires ou supprimer les données partagées, allez dans les paramètres du jeu et excluez directement Unity via le lien fourni ici.\n\nVous avez également le droit de déposer une réclamation auprès de l'autorité de surveillance.\n\nPour en savoir plus sur la façon dont nous et nos partenaires utilisons les données, cliquez sur « En savoir plus » ou les liens partenaires suivants :",
+        "learnMore": "EN SAVOIR PLUS",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "POLITIQUE DE CONFIDENTIALITÉ",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "ENREGISTRER",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Partenaires",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "de",
+      "main": {
+        "description": "Die sichere und transparente Nutzung von Daten ist Azerion ein wichtiges Anliegen. Daten, die wir von Ihnen erhalten, helfen uns, unsere Spiele für Sie so lohnenswert wie möglich zu machen. \n\nMit den Daten, die wir von Ihnen erfassen, personalisieren wir Inhalte, Angebote, Werbung und Social-Media-Funktionen, um sie auf Ihre Interessen zuzuschneiden. Anhand dieser Daten können wir auch verstehen, wie Sie unsere Spiele spielen. Zu diesen Zwecken übermitteln wir Ihre Daten möglicherweise an unsere Partner im Bereich Social Media, Werbung und Analysen, und diese kombinieren sie eventuell mit anderen Daten, die sie von Ihnen erhalten haben.\n\nIndem Sie auf „Annehmen“ klicken, stimmen Sie dieser Verwendung Ihrer Daten zu und bestätigen, dass Sie mindestens 16 Jahre alt sind.",
+        "acceptAll": "ALLES AKZEPTIEREN",
+        "accept": "ANNEHMEN",
+        "settings": "EINSTELLUNGEN"
+      },
+      "settings": {
+        "title": "Ihre Daten werden möglicherweise zu folgenden Zwecken genutzt:",
+        "personalisedContent": "Um Ihnen personalisierte Inhalte, Angebote und Empfehlungen anzuzeigen",
+        "personalisedAds": "Um Ihnen Werbung auf der Grundlage Ihrer Interessen anzuzeigen ",
+        "rememberSettings": "Um Ihre Einstellungen und andere Entscheidungen im Spiel zu speichern",
+        "understandHow": "Um besser zu verstehen, wie Sie unsere Spiele nutzen",
+        "socialMedia": "Um Ihnen Social-Media-Funktionen anzubieten",
+        "description": "Die für die oben genannten Zwecke genutzten Daten umfassen Daten zur persönlichen Erkennung wie Geräte-IDs, Werbekennungen, IP-Adressen, Verhalten im Spiel und weitere Informationen, die Sie uns übermitteln. Die Daten werden gelöscht, wenn sie für den Service nicht mehr benötigt werden oder wenn Sie Ihre Dateneinstellungen ändern.\n\nSie können die Einstellungen bezüglich der Nutzung Ihrer Daten jederzeit ändern.\n\nAufgrund der Organisation von Unity, einem unserer Geschäftspartner, können wir nicht verhindern, dass Ihre Daten vor dem Start des Spiels weitergegeben werden. Wenn Sie diese Datenweitergabe für Werbezwecke beenden oder die weitergegebenen Daten löschen möchten, rufen Sie das Einstellungsmenü des Spiels auf und widerrufen Sie Ihre Einwilligung über den dort bereitgestellten Link direkt bei Unity.\n\nSie haben auch das Recht, eine Beschwerde bei der Aufsichtsbehörde einzureichen.\n\nWenn Sie mehr darüber erfahren möchten, wie wir und unsere Partner Daten nutzen, klicken Sie auf „Weitere Informationen“ oder auf die folgenden Partnerlinks:",
+        "learnMore": "WEITERE INFORMATIONEN",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "DATENSCHUTZRICHTLINIE",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "SPEICHERN",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Partners",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "es",
+      "main": {
+        "description": "Azerion valora el uso de datos seguro y transparente. Los datos que usted comparte con nosotros sirven para brindarle la mejor experiencia de juego posible. \n\nUtilizamos estos datos recolectados para personalizar el contenido, las ofertas, las publicidades y las redes sociales según sus intereses. También nos ayuda a entender cómo utiliza nuestros juegos. Para lograr esto, podemos compartir sus datos con nuestros socios de redes sociales, publicitarios y de análisis, quienes pueden combinar estos datos con otra información que usted les haya brindado.\n\nAl hacer clic en aceptar, está de acuerdo con el uso de los datos y confirma que tiene al menos 16 años.",
+        "acceptAll": "ACEPTAR TODO",
+        "accept": "ACEPTAR",
+        "settings": "CONFIGURACIONES"
+      },
+      "settings": {
+        "title": "Sus datos podrían utilizarse para los siguientes propósitos:",
+        "personalisedContent": "Mostrarle contenido, ofertas y recomendaciones personalizadas",
+        "personalisedAds": "Mostrarle publicidades basadas en sus intereses ",
+        "rememberSettings": "Recordarle sus configuraciones y otras elecciones dentro del juego",
+        "understandHow": "Comprender mejor cómo utiliza nuestros juegos",
+        "socialMedia": "Ofrecerle características en las redes sociales",
+        "description": "Los datos utilizados para dichos propósitos son identificadores personales como identificadores de dispositivo, de publicidad, direcciones IP, comportamiento en el juego y otro tipo de información que usted decida compartir con nosotros. Estos datos se borrarán una vez que ya no sean necesarios para el servicio o cuando usted cambie la configuración de sus datos.\n\nUsted podrá cambiar las configuraciones relacionadas al uso de sus datos cuando lo desee.\n\nDebido a la configuración de Unity, uno de nuestros socios comerciales, no podemos evitar que sus datos se compartan antes de que comience el juego. Si desea detener el uso compartido de los datos para anuncios o desea borrar los datos compartidos, visite el menú de configuración del juego y desactive la opción directamente desde Unity a través del enlace que se proporciona allí.\n\nUsted también tiene el derecho de presentar un reclamo a la autoridad supervisora.\n\nPara conocer más sobre el modo en que nosotros y nuestros socios utilizamos los datos, haga clic en \"Más información\" o en los siguientes enlaces de nuestros socios:",
+        "learnMore": "MÁS INFORMACIÓN",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "POLÍTICA DE PRIVACIDAD",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "GUARDAR",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Socios",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "pt",
+      "main": {
+        "description": "A Azerion valoriza a segurança e a transparência no uso de dados. Os dados que você compartilha conosco servem para oferecer a melhor experiência de jogo possível. \n\nNós utilizamos os dados que coletamos para personalizar o conteúdo, as ofertas, propagandas e os recursos das redes sociais de acordo com os seus interesses. Eles também servem para nós entendermos como você joga os nossos jogos. Para isso, nós podemos compartilhar os seus dados com nossos parceiros de redes sociais, de publicidade e de analítica, os quais podem combinar esses dados com outros dados fornecidos para eles por você.\n\nAo clicar em aceitar, você concorda com tal uso dos dados e confirma que você tem pelo menos dezesseis anos de idade.",
+        "acceptAll": "ACEITAR TUDO",
+        "accept": "ACEITAR",
+        "settings": "CONFIGURAÇÕES"
+      },
+      "settings": {
+        "title": "Os seus dados podem ser utilizados para os seguintes propósitos:",
+        "personalisedContent": "Para mostrar conteúdo, ofertas e recomendações personalizadas",
+        "personalisedAds": "Para mostrar propagandas de seu interesse",
+        "rememberSettings": "Para lembrar as suas configurações e outras escolhas dentro do jogo",
+        "understandHow": "Para melhor entender como você usa os nossos jogos",
+        "socialMedia": "Para oferecer recursos de redes sociais",
+        "description": "Os dados utilizados para os propósitos citados acima são identificadores pessoais tais como identificação dos dispositivos, identificadores de propaganda, endereço de IP, comportamento de jogo e outras informações que você escolher compartilhar conosco. Os dados serão deletados quando não forem mais necessários para o serviço ou quando você mudar a configuração de seus dados.\n\nVocê pode alterar as configurações relacionadas ao uso de seus dados a qualquer momento.\n\nDevido a como o Unity, um de nossos parceiros de negócio, é utilizado nós não conseguimos evitar que seus dados sejam compartilhados antes de iniciar o jogo. Se você deseja impedir que haja compartilhamento para propósitos de propaganda ou excluir os dados compartilhados, vá para o menu de configurações no jogo e desabilite diretamente com o Unity através do link fornecido lá.\n\nVocê também tem o direito de realizar uma reclamação junto à autoridade responsável.\n\nPara entender melhor como nós e nossos parceiros usamos os dados, clique em \"mais informações\" ou nos links de nossos parceiros a seguir:",
+        "learnMore": "MAIS INFORMAÇÕES",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "POLÍTICA DE PRIVACIDADE",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "SALVAR",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Parceiros",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "it",
+      "main": {
+        "description": "Azerion promuove un utilizzo sicuro e trasparente dei dati. Le informazioni a noi comunicate dall'utente sono impiegate per offrire la migliore esperienza di gioco possibile. \n\nUtilizziamo i dati raccolti per personalizzare contenuti, offerte, annunci pubblicitari e funzionalità di social media secondo gli interessi dell'utente, nonché per avere una comprensione più chiara dei comportamenti di gioco. A tal fine, potremo condividere i dati dell'utente con i nostri partner di analisi, pubblicità e social media, che potranno a loro volta aggregare tali dati a quelli già forniti loro dall'utente stesso.\n\nFacendo clic su Accetta, l'utente acconsente a tale utilizzo dei dati e conferma di avere un'età pari o superiore ai sedici anni.",
+        "acceptAll": "ACCETTARE TUTTO",
+        "accept": "ACCETTA",
+        "settings": "IMPOSTAZIONI"
+      },
+      "settings": {
+        "title": "I dati dell'utente potranno essere utilizzati agli scopi seguenti:",
+        "personalisedContent": "Mostrare contenuti, offerte e suggerimenti personalizzati;",
+        "personalisedAds": "Mostrare annunci pubblicitari coerenti con gli interessi dimostrati",
+        "rememberSettings": "Memorizzare impostazioni e altre opzioni selezionate dall'utente all'interno del gioco",
+        "understandHow": "Avere una comprensione più chiara del modo in cui vengono utilizzati i nostri giochi",
+        "socialMedia": "Offrire funzionalità relative ai social media",
+        "description": "I dati utilizzati agli scopi sopra descritti consistono in identificativi personali, quali ID del dispositivo, identificativi pubblicitari, indirizzi IP, comportamenti di gioco e altre informazioni che l'utente accetterà di condividere con noi. Tali dati saranno eliminati non appena non risulteranno più necessari ai fini del servizio, o non appena l'utente modificherà le proprie impostazioni relative ai dati.\n\nL'utente avrà facoltà di modificare in qualsiasi momento le impostazioni relative all'uso dei propri dati.\n\nA causa della configurazione di Unity, uno dei nostri partner commerciali, non possiamo evitare che i dati dell'utente vengano condivisi prima dell'inizio del gioco. Per interrompere la condivisione di dati a scopi pubblicitari o eliminare i dati condivisi, accedere al menu impostazioni del gioco ed escludersi da Unity attraverso l'apposito link.\n\nL'utente avrà inoltre il diritto di proporre reclamo presso l'autorità di vigilanza competente.\n\nPer maggiori informazioni sulla gestione dei dati da parte nostra e dei nostri partner, fare clic su “Maggiori informazioni” o sui seguenti link dei nostri partner:",
+        "learnMore": "MAGGIORI INFORMAZIONI",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "POLITICA SULLA PRIVACY",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "SALVA",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Partner",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "sv",
+      "main": {
+        "description": "Azerion värdesätter säker och transparent dataanvändning. De uppgifter du delar med oss bidrar till att erbjuda dig den bästa möjliga spelupplevelsen. \n\nVi använder de data vi samlar in från dig för att anpassa innehåll, erbjudanden, annonser och sociala medier som passar dina intressen. Det hjälper oss också att förstå hur du spelar våra spel. För att uppnå detta kan vi dela dina data med våra sociala medier, annonsörer och analyspartners som kan kombinera den med andra data du har gett dem.\n\nGenom att klicka på godkänn, samtycker du till användning av sådana uppgifter och bekräftar att du är minst 16 år gammal.",
+        "acceptAll": "ACCEPTERA ALLT",
+        "accept": "GODKÄNN",
+        "settings": "INSTÄLLNINGAR"
+      },
+      "settings": {
+        "title": "Dina data kan användas för följande ändamål:",
+        "personalisedContent": "För att visa dig anpassat innehåll, erbjudanden och rekommendationer",
+        "personalisedAds": "För att visa dig intressebaserade annonser ",
+        "rememberSettings": "För att komma ihåg dina inställningar och andra val inom spelet",
+        "understandHow": "För att bättre förstå hur du använder våra spel",
+        "socialMedia": "För att erbjuda dig sociala mediefunktioner",
+        "description": "Uppgifterna som används för ovanstående ändamål är personliga identifierare, såsom enhets-ID:n, annonsidentifierare, IP-adresser, speluppträdande och annan information som du väljer att dela med oss. Uppgifterna raderas när de inte längre är nödvändiga för tjänsten, eller när du ändrar dina datainställningar.\n\nDu kan när som helst ändra inställningarna för användningen av dina uppgifter.\n\nPå grund av den konfiguration Unity, en av våra samarbetspartners, använder sig av kan vi inte förhindra att dina uppgifter delas innan du börjar spelet. Om du vill stoppa sådan delning för annonssyften eller radera de delade uppgifterna går du till menyn Inställningar i spelet och väljer bort detta alternativ direkt hos Unity via den länk som finns där.\n\nDu har också rätt att lämna in ett klagomål hos tillsynsmyndigheten.\n\nFör att få veta mer om hur vi och våra partners använder data klickar du på \"lär dig mer\" eller följande partnerlänkar:",
+        "learnMore": "LÄR DIG MER",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "INTEGRITETSPOLICY",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "SPARA",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Partner",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "pl",
+      "main": {
+        "description": "Firmie Azerion zależy na bezpiecznym i przejrzystym korzystaniu z danych. Dane udostępniane przez użytkowników służą do zapewnienia możliwie najlepszej rozgrywki. \n\nZgromadzone dane wykorzystujemy w celu dostosowania zawartości, reklam i funkcji dostępnych w mediach społecznościowych, aby dopasować je do zainteresowań użytkowników. Pomaga nam to również zrozumieć, jak użytkownicy grają w nasze gry. Aby to osiągnąć, dane użytkowników możemy udostępnić naszym partnerom w mediach społecznościowych, reklamie i analityce, którzy mogą łączyć je z innymi danymi przekazanymi przez użytkowników.\n\nKlikając Akceptuj, wyrażasz zgodę na takie wykorzystanie danych i potwierdzasz, że masz co najmniej szesnaście lat.",
+        "acceptAll": "POTWIERDŹ WSZYSTKO",
+        "accept": "AKCEPTUJ",
+        "settings": "USTAWIENIA"
+      },
+      "settings": {
+        "title": "Dane użytkowników mogą zostać wykorzystane do następujących celów:",
+        "personalisedContent": "Zaprezentowania spersonalizowanej zawartości, ofert i rekomendacji",
+        "personalisedAds": "Zaprezentowania reklam dostosowanych do zainteresowań",
+        "rememberSettings": "Zapamiętania ustawień i innych wybranych opcji w grze",
+        "understandHow": "Lepszego zrozumienia, jak użytkownicy korzystają z naszych gier",
+        "socialMedia": "Zaoferowania funkcji dostępnych w mediach społecznościowych",
+        "description": "Dane wykorzystywane do powyższych celów to identyfikatory osobiste, takie jak identyfikator urządzenia, identyfikatory reklamowe, adresy IP, zachowanie w grze i inne informacje, które użytkownicy chcą nam udostępnić. Dane zostaną usunięte, gdy nie będą już potrzebne dla danej usługi lub podczas zmiany ustawień danych.\n\nW każdej chwili użytkownik może zmienić ustawienia związane z wykorzystywaniem jego danych.\n\nW związku z konfiguracją silnika Unity, jednego z naszych partnerów biznesowych, nie możemy zapobiec udostępnianiu danych użytkowników przed rozpoczęciem gry. Jeśli chcesz zaprzestać tego typu udostępniania do celów reklamowych lub chcesz usunąć udostępnione dane, przejdź do menu ustawień w grze i za pośrednictwem podanego linku prześlij informację o rezygnacji do firmy Unity.\n\nUżytkownik ma również prawo do złożenia skargi do organu nadzoru.\n\nAby dowiedzieć się więcej na temat wykorzystywania danych przez nas i naszych partnerów, kliknij „Więcej informacji” lub linki poniższych partnerów:",
+        "learnMore": "WIĘCEJ INFORMACJI",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "POLITYKA PRYWATNOŚCI",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "ZAPISZ",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Partnerzy",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "ru",
+      "main": {
+        "description": "Azerion ценит безопасное и прозрачное использование данных. Данные, которые вы нам сообщаете, позволяют нам максимально оптимизировать для вас игровой процесс.\n\nМы используем получаемые от вас данные для предоставления контента, предложений, рекламы и функций, доступных в социальных сетях, с учетом ваших персональных предпочтений и интересов. Также они помогают нам понять, как вы играете в наши игры. Для этого мы можем предоставлять ваши данные нашим партнерам по социальным сетям, рекламе и аналитике, которые могут объединять их с другими данными, которые вы им предоставили.\n\nНажимая «Принять», вы даете согласие на использование ваших данных вышеуказанными способами и подтверждаете, что вам уже исполнилось шестнадцать лет.",
+        "acceptAll": "ПРИНЯТЬ ВСЕ",
+        "accept": "ПРИНЯТЬ",
+        "settings": "НАСТРОЙКИ"
+      },
+      "settings": {
+        "title": "Ваши данные могут использоваться для следующих целей:",
+        "personalisedContent": "для показа вам персонализированного контента, предложений и рекомендаций",
+        "personalisedAds": "для показа рекламы в зависимости от ваших интересов",
+        "rememberSettings": "для запоминания ваших настроек и других предпочтений в игре",
+        "understandHow": "для лучшего понимания того, как вы используете наши игры",
+        "socialMedia": "для предложения вам функций, доступных в социальных сетях",
+        "description": "Используемыми для вышеуказанных целей данными являются: персональные идентификаторы, например ID устройств, рекламные идентификаторы, IP-адреса, поведение во время игрового процесса, а также другая информация, которой вы по своему выбору делитесь с нами. Эти данные будут удалены, как только отпадет необходимость использовать их для предоставления сервиса, или в случае изменения вами настроек для данных.\n\nВы имеете право в любое время изменять настройки, связанные с использованием ваших данных.\n\nИз-за особенностей конфигурации Unity, одного из наших деловых партнеров, у нас нет возможности воспрепятствовать обмену вашими данными до начала игры. Если вы хотите прекратить такой обмен в рекламных целях или удалить переданные данные, перейдите в меню настроек игры и откажитесь непосредственно с помощью Unity, пройдя по указанной там ссылке.\n\nТакже у вас есть право обратиться с претензией в надзорный орган.\n\nДля получения подробной информации о том, как данные используются нами и нашими партнерами, нажмите «Узнать подробнее» или пройдите по следующим ссылкам партнеров:",
+        "learnMore": "УЗНАТЬ ПОДРОБНЕЕ",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "СОХРАНИТЬ",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Партнеры",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "in",
+      "main": {
+        "description": "Azerion sangat memperhatikan penggunaan data yang aman dan transparan. Data yang Anda bagikan kepada kami digunakan untuk memberikan pengalaman bermain game yang sebaik mungkin.\n\nKami menggunakan data yang kami kumpulkan dari Anda untuk mempersonalisasikan fitur-fitur konten, penawaran, iklan, dan sosial media agar sesuai dengan minat Anda. Juga membantu kami memahami cara Anda memainkan game-game kami. Agar dapat melakukan ini, kami mungkin membagi data Anda dengan mitra media sosial, iklan, dan mitra analitik kami yang mungkin menggabungkannya dengan data lain yang telah Anda berikan kepada mereka.\n\nDengan mengeklik terima, berarti Anda menyetujui penggunaan data tersebut dan mengonfirmasikan bahwa Anda berusia sekurangnya enam belas tahun.",
+        "acceptAll": "TERIMA SEMUA",
+        "accept": "TERIMA",
+        "settings": "PENGATURAN"
+      },
+      "settings": {
+        "title": "Data Anda mungkin digunakan untuk tujuan berikut:",
+        "personalisedContent": "Untuk menampilkan konten, penawaran, dan rekomendasi yang dipersonalisasikan",
+        "personalisedAds": "Untuk menampilkan iklan berbasis minat ",
+        "rememberSettings": "Untuk mengingat pengaturan Anda dan pilihan lainnya di dalam game",
+        "understandHow": "Untuk lebih memahami cara Anda menggunakan game-game kami",
+        "socialMedia": "Untuk menawarkan fitur-fitur media sosial",
+        "description": "Data yang digunakan untuk tujuan di atas adalah pengidentifikasi pribadi seperti ID perangkat, pengidentifikasi iklan,  alamat IP, perilaku bermain game, dan informasi lain yang Anda pilih untuk dibagikan kepada kami. Data tersebut akan dihapus bila tidak diperlukan lagi untuk layanan ini atau bila Anda mengubah pengaturan data Anda.\n\nAnda bebas mengubah pengaturan yang berkaitan dengan penggunaan data Anda kapan saja.\n\nOleh karena adanya pendirian Unity, salah satu mitra bisnis kami, kami tidak dapat mencegah data Anda dibagikan sebelum Anda memulai game. Jika Anda ingin menghentikan pembagian tersebut untuk tujuan iklan atau menghapus data yang dibagikan, buka menu pengaturan di game dan keluar secara langsung dengan Unity melalui tautan yang tersedia.\n\nAnda juga berhak untuk mengajukan keluhan dengan otoritas pengawasan.\n\nUntuk mengetahui lebih banyak tentang cara kami dan mitra kami menggunakan data, klik “ketahui lebih lanjut” atau tautan mitra berikut:",
+        "learnMore": "KETAHUI LEBIH LANJUT",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "KEBIJAKAN PRIVASI",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "SIMPAN",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub Mitra",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "ja",
+      "main": {
+        "description": "Azerionは安全で透明性のあるデータ使用に価値を置いています。お客様が共有するデータは最高のゲーム体験を提供するために役立ちます。\n\nお客様から回収するデータは、お客様の興味に合うようにコンテンツやオファー、広告、ソーシャルメディア機能をパーソナライズするために使われます。これを可能にするために、お客様から得たほかのデータと組み合わせるソーシャルメディアや広告、分析パートナーにお客様のデータを共有することがあります。\n\n「同意」をクリックされますと、上記のデータ利用に同意され、16歳以上であることを確認されたことになります。",
+        "acceptAll": "全て承諾する",
+        "accept": "承認",
+        "settings": "設定"
+      },
+      "settings": {
+        "title": "お客様のデータは以下の目的に使用される場合があります。",
+        "personalisedContent": "パーソナライズされたコンテンツやオファー、おすすめを表示するため",
+        "personalisedAds": "興味のある広告を表示するため ",
+        "rememberSettings": "ゲーム内でのお客様の設定やその他の選択を記憶するため",
+        "understandHow": "お客様が当社のゲームをどのように使用しているかをより理解するため",
+        "socialMedia": "お客様にソーシャルメディア機能を提供するため",
+        "description": "上記の目的に使用されるデータはデバイスIDや広告識別子、IPアドレス、ゲームプレイの行動、お客様が当社に共有することを選んだその他の情報などの個人識別子です。データは、サービスに必要がなくなった時点、あるいはお客様がデータ設定を変更した時点で削除されます。\n\nお客様はデータ使用に関する設定をいつでも自由に変更することができます。\n\nUnity設定のため、 ビジネスパートナーのうちの1社にだけは、お客様がゲームを開始する前に、共有いただいたデータを提供せざるを得ません。広告目的でのそのようなデータ共有を停止したい場合や、共有されたデータを削除する場合は、ゲームの設定メニューから、提示されたリンクを使用して、直接Unityをオプトアウトしてください。\n\nまた、お客様は監督官庁に苦情を申し立てる権利を有しています。\n\n当社と当社のパートナーのデータ使用方法に関する詳細は「詳しく見る」、または以下のパートナーリンクをクリックしてご覧ください。",
+        "learnMore": "詳細",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "プライバシーポリシー",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "保存",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub パートナー",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "zh",
+      "main": {
+        "description": "Azerion推崇安全和透明的数据使用。您分享给我们的数据将被用于提升您的游戏体验。\n\n我们将使用从您处收集来的数据，针对您的兴趣爱好对内容、促销、广告、社交媒体功能进行个性化处理。这些数据同样可帮助我们了解您游玩我们游戏的方式。为达成这些目的，我们可能会和我们的社交媒体、广告、数据分析合作伙伴分享您的数据，这些合作商可能将其同您提供给他们的其它数据进行整合。\n\n一旦点击“接受”，即代表您确认自己至少已满十六周岁且同意这些数据的使用方式。",
+        "acceptAll": "接受全部",
+        "accept": "接受",
+        "settings": "设置"
+      },
+      "settings": {
+        "title": "您的数据可能被用于以下用途：",
+        "personalisedContent": "向您显示个性化内容、促销和推荐",
+        "personalisedAds": "向您显示基于您兴趣的广告",
+        "rememberSettings": "记住您在游戏中的设定和其它选择",
+        "understandHow": "更好地理解您如何使用我们的游戏产品",
+        "socialMedia": "向您提供社交媒体功能",
+        "description": "用于上述用途的数据包含个人身份信息（诸如设备号、广告身份识别、IP地址、游戏行为）以及您选择同我们分享的其它信息。当数据不再被用于我们的服务，或当您变更数据设定时，这些数据将被删除。\n\n您可以在任何时间更改与您的个人数据使用相关的设定。\n\n由于我们的一个业务伙伴 Unity 的设定，我们无法防止您的数据在您开始玩游戏之前被分享。如果您想要停止分享这类用于广告的数据，或是要删除已经分享的信息，请前往游戏中的设定菜单并通过该处提供的链接直接在 Unity 上设置。\n\n您同样有权利向监管部门提交投诉。\n\n如需详细了解我们以及我们的业务伙伴使用数据的方式，请点击“了解详情”或下方的合作伙伴链接",
+        "learnMore": "了解更多",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "隐私政策",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "保存",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub 合作伙伴",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "tr",
+      "main": {
+        "description": "Azerion, güvenli ve şeffaf veri kullanımına önem vermektedir. Bizimle paylaştığınız verileri mümkün olan en iyi oyun deneyimini sunmak için kullanırız.\n\nTopladığımız verileri ilgi alanlarınıza uyması için içerikleri, kampanyaları, reklamları ve sosyal medya özelliklerini kişiselleştirmek için kullanırız. Bu şekilde oyunlarımızı nasıl oynadığınız hakkında da bilgi sahibi oluruz. Bunu yapabilmek için sağladığınız diğer verilerle bu verileri birleştirebilecek sosyal medya, reklam ve analiz iş ortaklarımızla verilerinizi paylaşabiliriz.\n\nKabul et seçeneğine tıklayarak, bu veri kullanımını ve on altı yaşından büyük olduğunuzu kabul etmiş olursunuz.",
+        "acceptAll": "HEPSINI KABUL ET",
+        "accept": "KABUL ET",
+        "settings": "AYARLAR"
+      },
+      "settings": {
+        "title": "Verileriniz aşağıdaki amaçlar için kullanılabilir:",
+        "personalisedContent": "Kişiselleştirilmiş içerikler, kampanyalar ve öneriler sunabilmek için",
+        "personalisedAds": "Ilgi alanlarınıza dayalı reklamlar gösterebilmek için ",
+        "rememberSettings": "Oyundaki ayarlarınızı ve diğer seçimlerinizi hatırlayabilmek için",
+        "understandHow": "Oyunlarımızdan nasıl yararlandığınızı daha iyi anlayabilmek için",
+        "socialMedia": "Sosyal medya özellikleri sunabilmek için",
+        "description": "Yukarıdaki amaçlar için kullanılan veriler cihaz kimliği, reklam tanımlayıcıları, IP adresleri, oynayış davranışları ve bizimle paylaşmayı seçtiğiniz diğer bilgilerden oluşan kişisel tanımlayıcılardır. Veriler, hizmet için artık gerekli olmadıklarında veya veri ayarlarınızı değiştirdiğinizde silinir.\n\nVerilerinizin kullanımına ilişkin ayarları istediğiniz zaman değiştirebilirsiniz.\n\nİş ortaklarımızdan biri olan Unity'nin yapısı gereği oyunu başlatmadan önce verilerinizin paylaşılmasını engelleyemiyoruz. Bu türdeki reklam amaçlı paylaşımları durdurmak isterseniz veya paylaşılmış verileri silmek isterseniz oyundaki ayarlar menüsüne gidin ve oradaki bağlantıyı kullanarak doğrudan Unity ile paylaşımınızı kesin.\n\nDenetleyici kurumlara şikayette bulunma hakkınız da bulunmaktadır.\n\nİş ortaklarımızla birlikte verilerinizi nasıl kullandığımız hakkında daha fazla bilgi edinmek için \"daha fazla bilgi edinin\" seçeneğine veya şu iş ortağı bağlantılarına tıklayın:",
+        "learnMore": "DAHA FAZLA BİLGİ EDİNİN",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "GİZLİLİK POLİTİKASI",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "KAYDET",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub İş Ortakları",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "locale": "ko",
+      "main": {
+        "description": "Azerion는 안전하고 투명한 정보 사용을 중요하게 생각합니다. 사용자 여러분이 공유한 정보는 최상의 게임 경험을 제공하기 위해 사용됩니다.\n\n사용자에게서 수집한 정보는 개인의 관심 분야에 적합하도록 콘텐츠, 혜택, 광고 및 소셜 미디어 기능을 개인화하는 데 사용되며, 사용자의 게임 이용 방식에 대한 이해도를 높여주기도 합니다. 이를 위해 Azerion는 파트너 관계를 맺고 있는 소셜 미디어, 광고 및 분석 전문 회사와 사용자의 정보를 공유하며, 그러한 정보는 기존 제출된 기타 정보와 함께 결합될 수 있습니다.\n\n수락을 클릭하면 이러한 정보 사용에 동의하고 귀하가 16세 이상임에 동의하는 것입니다.",
+        "acceptAll": "모두 허용",
+        "accept": "수락",
+        "settings": "설정"
+      },
+      "settings": {
+        "title": "사용자의 정보는 다음과 같은 목적을 위해 사용됩니다.",
+        "personalisedContent": "개인화된 콘텐츠, 혜택 및 추천 제공",
+        "personalisedAds": "관심사에 기반한 광고 제공 ",
+        "rememberSettings": "게임 내 사용자 설정 및 선택 사항 기억",
+        "understandHow": "사용자의 게임 이용 방식에 대한 이해도 증진",
+        "socialMedia": "소셜 미디어 기능 제공",
+        "description": "위와 같은 목적으로 사용되는 정보는 장치 ID, 광고 식별자, IP 주소, 게임 사용 습관 및 기타 정보와 같은 개인 식별자로, 사용자가 Azerion와 공유하도록 선택한 것입니다. 더 이상 서비스 제공에 필요하지 않거나 사용자가 정보 설정을 변경할 경우, 해당 정보는삭제됩니다.\n\n정보 사용에 관련된 설정은 언제든지 변경할 수 있습니다.\n\n당사의 비즈니스 파트너 중 하나인 Unity의 설정으로 인해 게임을 시작하기 전에 사용자의 데이터가 공유됩니다. 광고 목적으로 이루어지는 해당 공유를 중지하거나 공유된 데이터를 삭제하려면 게임의 설정 메뉴로 이동해 링크를 통해 직접 Unity를 옵트아웃 하십시오.\n\n사용자는 또한 감독 기관에 불만을 제기할 권리가 있습니다.\n\nAzerion 및 파트너 회사가 정보를 어떻게 사용하는지 알아보려면 \"자세히 알아보기\"를 클릭하거나 다음 파트너 링크를 클릭하십시오:",
+        "learnMore": "자세히 알아보기",
+        "learnMoreUrl": "https://azerion.com/business/terms.html",
+        "privacyPolicy": "개인정보 보호정책",
+        "privacyPolicyUrl": "https://azerion.com/business/privacy.html",
+        "save": "저장",
+        "partners": [
+          {
+            "name": "AdColony",
+            "url": "https://www.adcolony.com/privacy-policy/"
+          },
+          {
+            "name": "AdMob",
+            "url": "https://policies.google.com/privacy?hl=en"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/about/privacy/update"
+          },
+          {
+            "name": "Facebook Audience Network",
+            "url": "https://developers.facebook.com/docs/audience-network/policy/"
+          },
+          {
+            "name": "InMobi",
+            "url": "https://www.inmobi.com/privacy-policy-for-eea/"
+          },
+          {
+            "name": "iOS Appstore",
+            "url": "https://www.apple.com/uk/legal/privacy/en-ww/"
+          },
+          {
+            "name": "Unity Ads",
+            "url": "https://unity3d.com/legal/privacy-policy"
+          },
+          {
+            "name": "Vungle",
+            "url": "https://vungle.com/privacy/"
+          },
+          {
+            "name": "MoPub",
+            "url": "https://www.mopub.com/legal/privacy/"
+          },
+          {
+            "name": "MoPub 파트너",
+            "url": "https://www.mopub.com/legal/partners/"
+          },
+          {
+            "name": "AppLovin",
+            "url": "https://www.applovin.com/privacy/"
+          },
+          {
+            "name": "Fyber",
+            "url": "https://www.fyber.com/privacy-policy/"
+          },
+          {
+            "name": "OpenX",
+            "url": "https://www.openx.com/legal/privacy-policy/"
+          },
+          {
+            "name": "Rubicon Project",
+            "url": "https://rubiconproject.com/privacy-policy/"
+          },
+          {
+            "name": "Smaato",
+            "url": "https://www.smaato.com/privacy/"
+          },
+          {
+            "name": "Tapjoy",
+            "url": "https://www.tapjoy.com/legal/#privacy-policy"
+          },
+          {
+            "name": "Ironsource",
+            "url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/"
+          },
+          {
+            "name": "MyTarget",
+            "url": "https://target.my.com/optout/"
+          },
+          {
+            "name": "AwesomeAds",
+            "url": "https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/"
+          },
+          {
+            "name": "Aarki",
+            "url": "https://corp.aarki.com/privacy"
+          },
+          {
+            "name": "Improve Digital",
+            "url": "https://www.improvedigital.com/platform-privacy-policy/"
+          },
+          {
+            "name": "Index Exchange",
+            "url": "https://indexexchange.com/privacy/"
+          },
+          {
+            "name": "Liftoff",
+            "url": "https://liftoff.io/privacy-policy/"
+          },
+          {
+            "name": "Pubmatic",
+            "url": "https://pubmatic.com/legal/privacy-policy/"
+          },
+          {
+            "name": "TripleLift",
+            "url": "https://triplelift.com/privacy/"
+          },
+          {
+            "name": "Ogury",
+            "url": "https://ogury.com/privacy-policy/"
+          }
+        ]
+      }
+    }
+  ],
+  "ageGates": [
+    {
+      "locale": "en",
+      "question": "Please verify your age to play:",
+      "description": "Only used for verification purposes.",
+      "rejectMessage": "Sorry, you must be # or older to play."
+    },
+    {
+      "locale": "nl",
+      "question": "Bevestig je leeftijd om dit spel te spelen:",
+      "description": "Dit is alleen bedoeld ter controle.",
+      "rejectMessage": "Sorry, je moet # jaar of ouder zijn om het te spelen."
+    },
+    {
+      "locale": "fr",
+      "question": "Veuillez vérifier votre âge pour jouer à ce jeu:",
+      "description": "Ceci n'est utilisé qu'à des fins de vérification.",
+      "rejectMessage": "Désolé, vous devez avoir # ou plus pour y jouer."
+    },
+    {
+      "locale": "de",
+      "question": "Bestätige dein Alter, um dieses Spiel zu spielen:",
+      "description": "Dies dient ausschließlich als Altersbestätigung.",
+      "rejectMessage": "Zum Spielen musst du mindestens # Jahre alt sein."
+    },
+    {
+      "locale": "es",
+      "question": "Verifica tu edad para jugar a este juego:",
+      "description": "Este dato solo se usará para la verificación.",
+      "rejectMessage": "Lo sentimos, debes tener # años o más para jugar a este juego."
+    },
+    {
+      "locale": "pt",
+      "question": "Verifique a sua idade para jogar este jogo:",
+      "description": "Isso é utilizado somente para propósito de verificação.",
+      "rejectMessage": "Desculpe, você deve ter no mínimo # anos para jogar esse jogo."
+    },
+    {
+      "locale": "it",
+      "question": "Conferma la tua età per giocare a questo gioco:",
+      "description": "Serve solo per motivi di verifica.",
+      "rejectMessage": "Ci dispiace, ma devi avere almeno # anni per giocare."
+    },
+    {
+      "locale": "sv",
+      "question": "Bekräfta din ålder för att spela detta spel:",
+      "description": "Detta används endast i verifieringssyfte.",
+      "rejectMessage": "Tyvärr, du måste vara # eller äldre för att spela det."
+    },
+    {
+      "locale": "pl",
+      "question": "Zweryfikuj swój wiek, aby zagrać w grę:",
+      "description": "Używane wyłącznie do celów weryfikacji.",
+      "rejectMessage": "Niestety, ale musisz mieć # lat lub więcej, aby zagrać."
+    },
+    {
+      "locale": "ru",
+      "question": "Для игры в эту игру подтвердите свой возраст:",
+      "description": "Это используется только в целях проверки.",
+      "rejectMessage": "Извините, но чтобы играть в нее, вам должно быть не менее # лет."
+    },
+    {
+      "locale": "in",
+      "question": "Harap verifikasi umur Anda untuk memainkan game ini:",
+      "description": "Ini hanya digunakan untuk tujuan verifikasi.",
+      "rejectMessage": "Maaf, Anda harus berusia # tahun atau lebih untuk bisa memainkannya."
+    },
+    {
+      "locale": "ja",
+      "question": "年齢をご確認の上、このゲームをプレイしてください:",
+      "description": "これは確認のみを目的として使用します。",
+      "rejectMessage": "残念ながら、# 歳未満の方はプレイできません。"
+    },
+    {
+      "locale": "zh",
+      "question": "要玩这款游戏，请验证您的年龄：",
+      "description": "这仅用于验证目的。",
+      "rejectMessage": "对不起，您的年龄必须满足#或更高，才能玩这款游戏。"
+    },
+    {
+      "locale": "tr",
+      "question": "Bu oyunu oynamak için lütfen yaşınızı doğrulayın:",
+      "description": "Bu sadece doğrulama amacıyla kullanılır.",
+      "rejectMessage": "Üzgünüz, oynamak için en az # yaşında olmalısınız."
+    },
+    {
+      "locale": "ko",
+      "question": "게임을 플레이하려면 나이를 확인해주세요.",
+      "description": "이는 오직 인증 용도로만 사용됩니다.",
+      "rejectMessage": "죄송합니다. 플레이하려면 만 #세 이상이어야 합니다."
+    }
+  ]
+}
